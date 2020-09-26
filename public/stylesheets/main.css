@@ -1,0 +1,24 @@
+.img-thumbnail img{
+    width: 100%;
+}
+
+#show-pg-thumbnail {
+    padding: 0;
+}
+
+.img-thumbnail .img-caption-full{
+    padding: 9px;
+} 
+
+#delete-form {
+    display: inline;
+}
+
+#comment-edit {
+    /* float: right; */
+}
+
+#delete-comment {
+    display: inline;
+    /* float: left; */
+}
